@@ -1,5 +1,6 @@
 # ML-Project
 # Sensor Fusion Gesture Classification (CMI/BFRB)
+# Team 12
 
 This repository contains a complete deep-learning pipeline for classifying human gestures and behaviors using **multi‑modal sensor data** (IMU + TOF + Thermal). The project includes data preprocessing, feature engineering, model design, K-Fold training, and inference server setup for Kaggle competitions.
 
