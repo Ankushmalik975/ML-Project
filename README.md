@@ -5,7 +5,7 @@ This repository contains a complete deep-learning pipeline for classifying human
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 * **Multi‑modal sensor fusion** using IMU + TOF/THM data.
 * **Deep CNN + Attention architecture** for time‑series classification.
@@ -20,7 +20,7 @@ This repository contains a complete deep-learning pipeline for classifying human
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 |-- train.py / main.py        # Full pipeline (same as code above)
@@ -35,9 +35,9 @@ This repository contains a complete deep-learning pipeline for classifying human
 
 ---
 
-## 🧠 Model Architecture Overview
+ 🧠 Model Architecture Overview
 
-### 1. **IMU Feature Engineering**
+ 1. **IMU Feature Engineering**
 
 * Magnitude features (acc + rotation)
 * 1D grouped convolution on accelerometer channels
